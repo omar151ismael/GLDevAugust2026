@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "3100f439-3ee8-40c0-a855-bf4aefb4eec3",
+    "Name": "Omr1TestProcess",
+    "ModifiedOnUtc": "\/Date(1787569326000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Test process",
+    "DependsOn": []
+  }
+}

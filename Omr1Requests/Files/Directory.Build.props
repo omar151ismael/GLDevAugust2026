@@ -1,0 +1,5 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/Omr1Requests/Schemas/Omr1Requests/Omr1Requests.cs" Condition="Exists('$(PkgPath)/Omr1Requests/Schemas/Omr1Requests/Omr1Requests.cs')" />
+	</ItemGroup>
+</Project>

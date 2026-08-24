@@ -1,0 +1,18 @@
+﻿{
+  "Descriptor": {
+    "UId": "70d4d4b1-e4f9-4bb7-b9f2-1780e4854bd3",
+    "Name": "Omr1Requests",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1731959136000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/Omr1Requests.csproj",
+    "DependsOn": [
+      {
+        "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCore",
+        "Type": 1
+      }
+    ]
+  }
+}

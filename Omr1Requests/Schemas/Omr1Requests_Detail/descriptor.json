@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "f6dd2db4-7c58-4ed0-a51f-d161de91243c",
+    "Name": "Omr1Requests_Detail",
+    "ModifiedOnUtc": "\/Date(1787484397000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Requests detail",
+    "DependsOn": []
+  }
+}

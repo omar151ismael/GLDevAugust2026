@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/Omr1Reality/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/Omr1Reality/Data/**" />
+		<Compile Remove="$(PkgPath)/Omr1Reality/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/Omr1Reality/Schemas\**" />
+		<Compile Remove="$(PkgPath)/Omr1Reality/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/Omr1Reality/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/Omr1Reality/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/Omr1Reality/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/Omr1Reality/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/Omr1Reality/Resources/**" />
+		<None Remove="$(PkgPath)/Omr1Reality/Assemblies/**" />
+		<None Remove="$(PkgPath)/Omr1Reality/Data/**" />
+		<None Remove="$(PkgPath)/Omr1Reality/SqlScripts/**" />
+		<None Remove="$(PkgPath)/Omr1Reality/Schemas/**" />
+		<None Remove="$(PkgPath)/Omr1Reality/Resources/**" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d300f6ad-f701-4841-a44c-f2e183b6987d",
+    "Name": "Omr1Reality",
+    "Type": 1,
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/Omr1Reality.csproj",
+    "DependsOn": []
+  }
+}

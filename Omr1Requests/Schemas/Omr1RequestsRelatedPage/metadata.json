@@ -1,0 +1,28 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "f81a507d-b629-4f4d-a476-99b4f07f55d3",
+      "A2": "Omr1RequestsRelatedPage",
+      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2",
+      "B8": "0.0.0.0",
+      "AD1": "6403a86f-1468-4381-91fa-a87c484cd65f",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "Pages": [
+          {
+            "UId": "71b98ff1-4d35-4e4a-b7e1-d218775dc138",
+            "PageSchemaUId": "63130cf2-8a86-4d15-beb4-8839bbfce150",
+            "IsDefault": true
+          }
+        ]
+      }
+    }
+  }
+}

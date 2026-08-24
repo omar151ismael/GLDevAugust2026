@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "f81a507d-b629-4f4d-a476-99b4f07f55d3",
+    "Name": "Omr1RequestsRelatedPage",
+    "ModifiedOnUtc": "\/Date(1787484397000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Requests (Page settings)",
+    "DependsOn": []
+  }
+}

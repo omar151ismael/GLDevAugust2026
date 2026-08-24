@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6403a86f-1468-4381-91fa-a87c484cd65f",
+    "Name": "Omr1Requests",
+    "ModifiedOnUtc": "\/Date(1787484376000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Requests",
+    "DependsOn": []
+  }
+}
